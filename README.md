@@ -4,7 +4,7 @@ Binance Scalping, Swing, Daytrade Bot using AI
 
 ● You cannot run the bot using the .py code from this repository. This requires the full version of the bot. ❗
 
-● DM me from Telegram (https://t.me/mallian36) if you want to buy full version of the bot. 📭
+● DM me from Telegram (https://t.me/mallian36) or (https://twitter.com/nonormiem) if you want to buy full version of the bot. 📭
 
 ● Prices are negotiable. 👍
 
